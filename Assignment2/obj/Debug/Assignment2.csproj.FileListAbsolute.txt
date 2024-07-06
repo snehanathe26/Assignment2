@@ -1,0 +1,7 @@
+E:\Centralogic Training\Assignment2\bin\Debug\Assignment2.exe.config
+E:\Centralogic Training\Assignment2\bin\Debug\Assignment2.exe
+E:\Centralogic Training\Assignment2\bin\Debug\Assignment2.pdb
+E:\Centralogic Training\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+E:\Centralogic Training\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+E:\Centralogic Training\Assignment2\obj\Debug\Assignment2.exe
+E:\Centralogic Training\Assignment2\obj\Debug\Assignment2.pdb
